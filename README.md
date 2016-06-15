@@ -1,2 +1,2 @@
-# hexagon-java8-mavenizer
-java 8 maven builder
+# hexagon-java-mavenizer
+java maven builder
